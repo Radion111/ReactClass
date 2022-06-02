@@ -9,7 +9,8 @@ class TodoInput extends Component {
   render() {
     return (
       <header>
-        <h1>Список задач {this.props.myprops.length}</h1>
+        <h1>ToDo List on React</h1>
+        <h2>Список задач {this.props.myprops.length}</h2>
       </header>
     );
   }
