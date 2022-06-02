@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactClass.github.io/static/css/main.3437de6e.css",
-    "main.js": "/ReactClass.github.io/static/js/main.f75d0a25.js",
+    "main.js": "/ReactClass.github.io/static/js/main.d51cbd84.js",
     "index.html": "/ReactClass.github.io/index.html",
     "main.3437de6e.css.map": "/ReactClass.github.io/static/css/main.3437de6e.css.map",
-    "main.f75d0a25.js.map": "/ReactClass.github.io/static/js/main.f75d0a25.js.map"
+    "main.d51cbd84.js.map": "/ReactClass.github.io/static/js/main.d51cbd84.js.map"
   },
   "entrypoints": [
     "static/css/main.3437de6e.css",
-    "static/js/main.f75d0a25.js"
+    "static/js/main.d51cbd84.js"
   ]
 }
